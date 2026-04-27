@@ -30,8 +30,8 @@ Jako inżynier odpowiedzialny za architekturę, rekomenduję następujące uspra
 
 ---
 **Podpisano:**
-*Inżynier Testów:* **[Imię Studenta]**
-*Numer Albumu:* `[Twoje ID]`
+*Inżynier Testów:* **[Cyprian]**
+*Numer Albumu:* `[99842]`
 *Data:* 
 
  
